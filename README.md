@@ -1,6 +1,6 @@
 # LLM-Augmented Therapy Normalization and Aspect-Based Sentiment Analysis of TRD-Labeled Reddit Discourse
 
-The project characterizes treatment-resistant depression (TRD) therapy discussion in Reddit posts using a curated TRD cohort, lexicon-based therapy normalization, and medication-tagged aspect-based sentiment analysis. The repository is organized for transparent research reuse while excluding raw Reddit text, usernames, row-level private annotations, and local model artifacts that should not be redistributed.
+The project characterizes treatment-resistant depression (TRD) therapy discussion in Reddit posts using a curated TRD cohort, lexicon-based therapy normalization, and medication-tagged aspect-based sentiment analysis. 
 
 
 ## Environment
